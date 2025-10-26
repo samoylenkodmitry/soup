@@ -63,3 +63,4 @@ The constants `ORG_SIZE`, `POP_SIZE`, `STEP_LIMIT`, `EPOCHS` and `MUTATION_RATE`
 
 - The original paper: **Spontaneous Emergence of Digital Life from Random Programs** by Paul W. Florensky et al., 2024.  It explores several computational substrates and demonstrates that digital life emerges robustly without explicit fitness or selection.
 - [A minimal Rust implementation](https://github.com/samoylenkodmitry/soup) (this repo).
+- **Disclaimer:** I am not affiliated with the authors of the paper. This repository is a personal project created with GPT-5 to explore and reproduce their experiments.
