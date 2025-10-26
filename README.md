@@ -1,6 +1,11 @@
+
+
+[soup.webm](https://github.com/user-attachments/assets/278bdbb3-db7b-4979-99ef-767a635cc438)
+
+
 # Soup: Digital Abiogenesis in Rust
 
-This repo contains a minimal reproduction of the experiments described in “[Spontaneous Emergence of Digital Life from Random Programs]” (arXiv:2406.19108).  The authors show that if you place a population of random programs in a simple computational substrate and allow them to interact by executing their concatenated code on shared memory, self-replicating “organisms” can spontaneously arise and evolve without any explicit fitness function or reproduction mechanism.
+This repo contains a minimal reproduction of the experiments described in “[Spontaneous Emergence of Digital Life from Random Programs]” ([arXiv:2406.19108](https://arxiv.org/pdf/2406.19108)).  The authors show that if you place a population of random programs in a simple computational substrate and allow them to interact by executing their concatenated code on shared memory, self-replicating “organisms” can spontaneously arise and evolve without any explicit fitness function or reproduction mechanism.
 
 ## What this code does
 
